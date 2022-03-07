@@ -115,6 +115,7 @@ main {
   width: 40%;
   color: white;
   font-weight: 600;
+  position: center;
 }
 
 /* GAMES */
@@ -149,8 +150,8 @@ main {
     rgba(255, 255, 255, 0.5)
   );
   border-radius: 1rem;
-  margin: 2rem 0rem;
-  padding: 2rem;
+  margin: 1rem 0rem;
+  padding: 1rem;
   box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.212);
   justify-content: space-between;
 }
@@ -297,3 +298,8 @@ body {
 .button-grow:hover {
   transform: scale(1.1);
 }
+
+
+
+
+
